@@ -17,8 +17,8 @@ ENV ADMIN_USERNAME='kritawat.kra'
 ENV ADMIN_PASSWORD='test'
 ENV ADMIN_EMAIL='kritawat.kra@ascendcorp.com'
 
-ENV PORT=8080
-EXPOSE 8080
+ENV PORT=8088
+EXPOSE 8088
 
 USER superset
 
